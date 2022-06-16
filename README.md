@@ -6,7 +6,7 @@
 - Ejecuta `npm install` en la carpeta del proyecto
 - Ejecuta luego `npm run dev`
 - Abre en el navegador la URL que aparece en la consola (debería ser Local: http://localhost:3000/)
-- Abre el editor de código y cambia lo que te dice la web cargada
+- {Opcional} Abre el editor de código y cambia lo que te dice la web cargada
 
 > **Si todo ha ido bien, ¡estás listo/a para el taller!**
 
